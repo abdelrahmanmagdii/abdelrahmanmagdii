@@ -1,4 +1,4 @@
-### Hi, I'm Abdelrahman
+### Hi, I'm Abdul
 
 Software engineer working on applied AI and research infrastructure at Ohio State. Contributor to [Kubernetes SIG Scheduling / Kueue](https://github.com/kubernetes-sigs/kueue). Google Summer of Code 2022 alumnus ([Flutter Community Admin Dashboard](https://github.com/fluttercommunity/admin_dashboard)).
 
