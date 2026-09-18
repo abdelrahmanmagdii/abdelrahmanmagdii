@@ -12,4 +12,3 @@ Software engineer working on applied AI and research infrastructure at Ohio Stat
 
 - [audit-your-gmail](https://github.com/abdelrahmanmagdii/audit-your-gmail) — local Gmail subscription auditor (privacy-first, optional local LLM)
 - [admin_dashboard](https://github.com/abdelrahmanmagdii/admin_dashboard) — GSoC'22 Flutter Community admin dashboard (upstream: [fluttercommunity/admin_dashboard](https://github.com/fluttercommunity/admin_dashboard))
-- [springboot_store_backend](https://github.com/abdelrahmanmagdii/springboot_store_backend) — Java / Spring Boot backend
